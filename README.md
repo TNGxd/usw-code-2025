@@ -1,2 +1,2 @@
 # usw-code-2025
-Code for lecture USW 2025
+Code and instructions for lecture USW SoSe 2025
