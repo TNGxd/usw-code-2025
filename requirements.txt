@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+seaborn
+jupyter
+nltk
+fastparquet
+fundus
+scrapy
+feedparser
+scrapy-playwright

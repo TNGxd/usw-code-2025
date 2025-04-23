@@ -1,0 +1,87 @@
+Angewandte Informatik
+Angewandte Informatik
+Angewandte Landschafts- und Feldarchäologie
+Arbeits- und Personalmanagement
+Bauingenieurwesen
+Bauingenieurwesen
+Bekleidungstechnik/Konfektion
+Bekleidungstechnik/Konfektion
+Betriebliche Umweltinformatik
+Betriebswirtschaftslehre
+Betriebswirtschaftslehre - Fern
+Business Administration and Engineering
+Computer Engineering
+Computer Engineering
+Construction and Real Estate Management
+Cyber Security and Business
+Elektrotechnik
+Elektrotechnik
+Europäische Wirtschaftspolitik
+Facility Management
+Facility Management
+Fahrzeugtechnik
+Fahrzeugtechnik
+Finance, Accounting, Corporate Law and Taxation
+Finanzmathematik, Aktuarwissenschaften und Risikomanagement
+Future Automotive Technology
+Game Design
+Gebäudeenergie- und -informationstechnik
+Gebäudeenergie- und -informationstechnik
+Gebäudeenergie- und -informationstechnik mit Orientierungsjahr
+General Management
+Gesundheitselektronik
+Immobilienwirtschaft
+Industrial Design
+Industrial Sales and Innovation Management
+Informatik in Ingenieurwissenschaften
+Informatik in Kultur und Gesundheit
+Informatik und Wirtschaft (Frauen)
+Informations- und Kommunikationstechnik
+Informations- und Kommunikationstechnik
+Ingenieurinformatik
+International and Development Economics
+International Business
+International Business
+Internationaler Studiengang Medieninformatik
+Internationaler Studiengang Medieninformatik
+Kommunikationsdesign
+Konservierung und Restaurierung
+Konservierung und Restaurierung/Grabungstechnik
+Life Science Engineering
+Life Science Engineering
+Life Science Management
+Maschinenbau
+Maschinenbau
+Maschinenbau - Fern
+Mikrosystemtechnik
+Mikrosystemtechnik
+Modedesign
+Modedesign
+Museologie
+Museumsmanagement und -kommunikation
+Nonprofit-Management und Public Governance
+Professional IT Business and Digitalization
+Project Management and Data Science
+Public Design
+Public und Nonprofit-Management
+Quantitative Finance and Data Science
+Real Estate Management
+Regenerative Energien
+Regenerative Energien
+System Design/ Game Design
+Umweltinformatik
+Unternehmenssteuerrecht
+Wirtschaft und Politik
+Wirtschaftsinformatik
+Wirtschaftsinformatik
+Wirtschaftsingenieurwesen
+Wirtschaftsingenieurwesen
+Wirtschaftsingenieurwesen - Fernstudium
+Wirtschaftskommunikation
+Wirtschaftskommunikation
+Wirtschaftsmathematik
+Wirtschaftsrecht
+Wirtschaftsrecht
+Workplace und Facility Engineering
+Workspace Management und Real Estate Engineering
+${name}
