@@ -1,63 +1,548 @@
 [
     {
-        "title": "Marktbericht: Keine Begeisterungsstürme in New York",
         "topics": [
-            "Marktbericht",
-            "Börsen",
-            "DAX",
-            "Trump",
-            "Powell",
-            "Fed",
-            "Notenbank",
-            "USA",
-            "Tesla",
-            "Elon Musk",
-            "Gold",
-            "Öl"
+            "Türkei",
+            "Istanbul",
+            "Erdbeben"
         ],
-        "images": [],
-        "publishing_date": "2025-04-23 20:13:46.792000+00:00",
-        "authors": [],
+        "publishing_date": "2025-04-24 06:31:37.945000+00:00",
         "free_access": true,
+        "images": [
+            {
+                "versions": [
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLrr6A/original/istanbul-516.jpg",
+                        "query_width": null,
+                        "size": null,
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLkm68/16x9-640/istanbul-516.jpg",
+                        "query_width": "max-width:420",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLkm68/16x9-640/istanbul-516.webp",
+                        "query_width": "max-width:420",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLk4K0/16x9-768/istanbul-516.jpg",
+                        "query_width": "max-width:767",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLk4K0/16x9-768/istanbul-516.webp",
+                        "query_width": "max-width:767",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLp4nc/20x9-960/istanbul-516.jpg",
+                        "query_width": "max-width:1023",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLp4nc/20x9-960/istanbul-516.webp",
+                        "query_width": "max-width:1023",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLpihI/20x9-1280/istanbul-516.jpg",
+                        "query_width": "min-width:1024",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLpihI/20x9-1280/istanbul-516.webp",
+                        "query_width": "min-width:1024",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    }
+                ],
+                "is_cover": true,
+                "description": "Menschen versammeln sich im Freien nach einem Erdbeben der Stärke 6,2. | dpa",
+                "caption": null,
+                "authors": [
+                    "dpa"
+                ],
+                "position": 1020
+            },
+            {
+                "versions": [
+                    {
+                        "url": "https://images.tagesschau.de/image/274f8a35-ab69-4002-a589-960ef83d5dfc/AAABlmZ-pDQ/AAABkZLrr6A/original/istanbul-516.jpg",
+                        "query_width": null,
+                        "size": null,
+                        "type": "image/jpeg"
+                    }
+                ],
+                "is_cover": true,
+                "description": "Menschen versammeln sich im Freien nach einem Erdbeben der Stärke 6,2. | dpa",
+                "caption": null,
+                "authors": [
+                    "dpa"
+                ],
+                "position": 1022
+            },
+            {
+                "versions": [
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLoHlI/1x1-640/tuerkei-erdbeben-178.jpg",
+                        "query_width": "max-width:420",
+                        "size": {
+                            "width": 1,
+                            "height": 1
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLoHlI/1x1-640/tuerkei-erdbeben-178.webp",
+                        "query_width": "max-width:420",
+                        "size": {
+                            "width": 1,
+                            "height": 1
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLoaiw/1x1-840/tuerkei-erdbeben-178.jpg",
+                        "query_width": "max-width:767",
+                        "size": {
+                            "width": 1,
+                            "height": 1
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLoaiw/1x1-840/tuerkei-erdbeben-178.webp",
+                        "query_width": "max-width:767",
+                        "size": {
+                            "width": 1,
+                            "height": 1
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLlUbs/16x9-960/tuerkei-erdbeben-178.jpg",
+                        "query_width": "max-width:1023",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLlUbs/16x9-960/tuerkei-erdbeben-178.webp",
+                        "query_width": "max-width:1023",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLk4K0/16x9-768/tuerkei-erdbeben-178.jpg",
+                        "query_width": "min-width:1024",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/35e94daf-bac5-4e61-95f7-655c670e6f21/AAABlmJFQeU/AAABkZLk4K0/16x9-768/tuerkei-erdbeben-178.webp",
+                        "query_width": "min-width:1024",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    }
+                ],
+                "is_cover": false,
+                "description": "Karte von der Türkei mit Istanbul und dem Epizentrum eines Erdbebens | ARD-aktuell",
+                "caption": null,
+                "authors": [
+                    "ARD-aktuell"
+                ],
+                "position": 1046
+            }
+        ],
         "body": {
             "summary": [
-                "Auf die neuesten Entspannungssignale des US-Präsidenten in Richtung China und Fed reagierte die Wall Street vergleichsweise kühl. Noch gibt es wenig Konkretes. Der DAX hatte noch positiver reagiert."
+                "Nach dem gestrigen Erdbeben gab es in Istanbul auch am Morgen weitere Nachbeben, darunter eines mit der Stärke 4,1. Experten warnen vor weiteren möglichen Beben. Viele Menschen übernachteten im Freien."
             ],
             "sections": [
                 {
                     "headline": [],
                     "paragraphs": [
-                        "Es ist ein fast stetiges Hin und Her von Drohen und Einlenken, das seit Wochen auf die Finanzmärkte einwirkt. Zur Wochenmitte gelang es US-Präsident Donald Trump einmal mehr, die Märkte vorerst zu beruhigen. Nach seinen wiederholten persönlichen Angriffen gegen Fed-Chef Jerome Powell erklärte Trump nun, er habe \"nicht die Absicht\", Powell zu entlassen. Zudem stellte er China niedrigere Zollsätze in Aussicht. Die chinesische Regierung zeigte sich umgehend bereit für Verhandlungen.",
-                        "Daraufhin setzten die Weltbörsen ihre Erholung nach dem \"Fed-Schock\" am Montag fort. In New York sprang der Leitindex Dow Jones zunächst wieder über die Marke von 40.000 Punkten, ging aber dann deutlich gedämpfter mit einem Plus von 1,07 Prozent auf 39.606 Punkte aus dem Handel.",
-                        "Der Technologieindex Nasdaq 100 erholte sich mit einem Plus von 2,28 Prozent auf 18.693 Punkte deutlich stärker. \"Im Handelsstreit scheint sich etwas Licht am Ende des Tunnels abzuzeichnen, und die Anleger fassen zunehmend Vertrauen, dass der schlimmste Teil der Rhetorik überstanden ist\", kommentierte Peter Cardillo, Chefökonom beim Finanzdienstleister Spartan.",
-                        "Nach der Kehrtwende Trumps verstärkt sich auch der Eindruck, dass der US-Präsident sehr wohl die Börsenreaktionen auf seine Einlassungen beobachtet - und offenbar bereit ist, strikte Positionen aufzugeben, um einer Eskalation an den Finanzmärkten entgegenzuwirken.",
-                        "An der Wall Street wurde aber auch kritisch vermerkt, dass es offenbar noch gar keine Handelsgespräche mit Peking gibt. \"Solange Präsident und Regierung keine verlässlichen Aussagen machen, die auch über den üblichen 24-Stunden-Nachrichtenzyklus hinaus Bestand haben, bleibt es bei einer kurzfristigen Erholung\", sagte Peter Andersen von Andersen Capital Management.",
-                        "Wie das \"Wall Street Journal\" unter Berufung auf eine hochrangige Quelle aus dem Weißen Haus berichtete, sollen die Zölle für Waren aus der Volksrepublik wahrscheinlich auf etwa 50 bis 65 Prozent gesenkt werden. Derzeit liegen diese Zölle deutlich über 100 Prozent. Finanzminister Scott Bessent erklärte daraufhin allerdings, dass Trump nicht mit einseitigen Senkungsangeboten in die Gespräche mit China gehe. Bessent räumte zudem ein, es gebe derzeit \"noch keine\" Verhandlungen mit China. \"Beide Seiten warten ab, miteinander zu sprechen.\" Trump hatte dagegen vor Ostern erste Gespräche mit Peking bestätigt.",
-                        "Wie als Antwort auf die aktuelle Diskussion veröffentlichte die US-Notenbank Fed am Abend ihren jüngsten Konjunkturbericht (\"Beige Book\"). Die Verunsicherung durch den aktuellen Zollstreit trübe die Aussichten für die weltgrößte Volkswirtschaft deutlich ein, so die Fed. Bislang sei aber noch keine Abkühlung der Wirtschaft zu erkennen, heißt es im Bericht, der den Zeitraum bis zum 14. April umfasst.",
-                        "Der aktuelle Einkaufsmanagerindex von S&P Global bestätigte dagegen eine Verlangsamung der wirtschaftlichen Aktivität. Der Frühindikator für die US-Privatwirtschaft fiel im April um 2,3 Punkte auf 51,2 Zähler. Das war der schlechteste Wert seit knapp anderthalb Jahren. Der Wert über 50 deutet aber weiter auf Wachstum hin.",
-                        "Noch deutlich freundlicher als die Wall Street reagierte der deutsche Markt auf die Entspannungssignale aus Washington. Der DAX sprang um 3,1 Prozent auf 21.961 Punkte nach oben. Kurzzeitig testete er auch die runde Marke von 22.000 Punkten. Der deutsche Leitindex setzte damit seine V-förmige Erholung seit dem Crash-Tief vom \"Panic Monday\" am 4. April auf 18.489 Punkte fort. Das Gros seines Kurssturzes hat der DAX bereits wieder wettmachen können.",
-                        "Es bleibt aber abzuwarten, ob die Anleger, die heute ins Risiko gegangen sind, für ihren Mut auch mittel- und langfristig belohnt werden. Eine erste Bilanz von Trump an den US-Aktienmärkten fällt jedenfalls verheerend aus. \"In seiner zweiten Regentschaft weist Trump die schlechteste Börsenentwicklung seit dem Jahr 1900 auf\", betonte IG-Marktexperte Christian Henke. \"In der ewigen Tabelle ist Donald Trump auf dem letzten Platz zu finden. Der S&P 500 verlor in den ersten 100 Tagen rund 14 Prozent an Wert.\" Zum Vergleich: Trumps Vorgänger Biden konnte im gleichen Zeitraum ein Plus von mehr als zehn Prozent vorweisen.",
-                        "Dabei liegt der Grund für die katastrophale Börsenbilanz Trumps nicht allein in den deutlich gesunken Wachstumsperspektiven für die USA. Seit seiner Amtseinführung am 20. Januar hat Trump zugleich die wohl wichtigste Währung verspielt, die die Vereinigten Staaten bis dato an den internationalen Finanzmärkten innehatten: Vertrauen.",
-                        "Der von Trump angefachte Zollkonflikt hinterlässt laut EZB-Präsidentin Christine Lagarde auch beim Wachstum in Europa erste Spuren. \"Wenn ich mich darauf konzentriere, was in Europa passiert, beginnen wir, eine Abschwächung von Wachstumszahlen zu sehen\", sagte Lagarde auf einer Veranstaltung der \"Washington Post\" in der US-Hauptstadt. \"Und ich würde nicht ausschließen, dass wir auch unseren Wachstumsausblick nochmal überdenken werden, wenn wir unsere nächsten Projektionen im Juni erstellen.\"",
-                        "Auch ein viel beachteter Frühindikator für Deutschland deutet auf eine Kontraktion hin: Der Einkaufsmanagerindex für die Privatwirtschaft mit Industrie und Dienstleistern sank stärker als erwartet auf 49,7 Punkte nach 51,3 Zählern im März, wie der Finanzdienstleister S&P Global zu seiner monatlichen Befragung von Einkaufsmanagern mitteilte.",
-                        "Das Konjunkturbarometer fiel damit auf ein Vier-Monats-Tief und liegt nun wieder unter der Wachstumsschwelle von 50 Punkten. Die deutsche Wirtschaft sei angesichts von Sorgen über Zölle und der unsicheren Geschäftsaussichten wieder in den rezessiven Bereich gerutscht, hieß es. Der Euro driftete am späten Abend leicht ins Minus auf 1,1328 Dollar.",
-                        "Die Ölpreise konnten angesichts der getrübten Konjunkturaussichten anfängliche Zugewinne nicht halten. Die Rohölsorte Brent aus der Nordsee verbilligte sich bis zum späten Abend um zwei Prozent auf 65,99 Dollar je Barrel (159 Liter).",
-                        "Die US-Ölreserven stiegen in der vergangenen Woche überraschend nur leicht. Die Rohölvorräte legten um 0,2 Millionen auf 443,1 Millionen Barrel zu. Analysten hatten im Schnitt mit einem Anstieg von 1,6 Millionen Barrel gerechnet.",
-                        "Der sichere Hafen Gold war zur Wochenmitte ebenfalls nicht gefragt. Das Edelmetall stoppte seinen Höhenflug und verbilligte sich um 1,2 Prozent auf 3.295 Dollar je Feinunze, nachdem es am Dienstag noch ein Rekordhoch von 3.500 Dollar erreicht hatte. Die US-Investmentbank JPMorgan rechnet damit, dass der Preis im nächsten Jahr die Schallmauer von 4.000 Dollar knacken wird.",
-                        "An der Wall Street fiel Intel mit überdurchschnittlichen Gewinnen auf. Dem Halbleiterhersteller steht offenbar ein weiterer tiefgreifender personeller Einschnitt bevor. Das kriselnde Unternehmen werde noch in dieser Woche den Abbau von mehr als einem Fünftel der Belegschaft verkünden, berichtete die Nachrichtenagentur Bloomberg unter Berufung auf eine in die Pläne eingeweihte Person.",
-                        "Ein aktuelles Schlaglicht auf die Störung des Handels mit China lieferte Boeing. Nach Angaben des Flugzeugbauers hat die Volksrepublik die Annahme neuer Flugzeuge des US-Herstellers verweigert. Boeing-Geschäftsführer Kelly Ortberg bestätigte im Sender CNBC Medienberichte, wonach China gelieferte Maschinen zurückgeschickt hat.",
-                        "Die leichte Stabilisierung bei den Quartalszahlen sorgt aber wieder für Interesse an der Aktie. Im ersten Quartal meldete Boeing ein Umsatzplus von 18 Prozent auf 19,5 Milliarden Dollar. Unter dem Strich stand ein Verlust von noch 31 Millionen Dollar nach einem Fehlbetrag von 355 Millionen ein Jahr zuvor.",
-                        "Auch die Tesla-Aktie setzte ihre Erholung fort. Tech-Milliardär Elon Musk leitet den Rückzug aus Washington ein. Ab Mai werde er \"erheblich\" weniger Zeit als Kostensenker von Präsident Donald Trump im Regierungsapparat verbringen, sagte der Tesla-Chef. Stattdessen werde es sich wieder mehr um die Belange des Elektroauto-Herstellers kümmern. Tesla hatte zuvor einen Gewinneinbruch für das vergangene Quartal gemeldet. Tesla verdiente unterm Strich 409 Millionen Dollar und damit 71 Prozent weniger als ein Jahr zuvor.",
-                        "Im DAX war die SAP-Aktie mit einem Plus von über zehn Prozent der mit Abstand größte Gewinner. Europas größter Softwarehersteller hat im ersten Quartal von seinem großen Stellenabbau aus dem Vorjahr profitiert. Das operative Ergebnis stieg um 60 Prozent auf 2,46 Milliarden Euro - und damit deutlicher stärker als von Analysten erwartet. Analyst Charles Brennan vom Investmenthaus Jefferies sprach von \"ermutigenden\" Ergebnissen nach der jüngsten Kursschwäche.",
-                        "Nach Börsenschluss konnte auch Adidas mit erfreulichen Zahlen aufwarten. Der Umsatz sei im ersten Quartal währungsbereinigt um 13 Prozent auf 6,15 Milliarden Euro gestiegen, teilte die Nummer 2 auf dem weltweiten Sportartikelmarkt mit. In allen Märkten sei Adidas zweistellig gewachsen. Das Betriebsergebnis sprang um 82 Prozent auf 610 Millionen Euro, die operative Umsatzrendite erreichte damit 9,9 Prozent - fast das Maximum, das Vorstandschef Björn Gulden in der Branche zurzeit für machbar hält.",
-                        "In der ostchinesischen Metropole Shanghai stellen von heute an Hunderte Firmen aus der Autobranche ihre neuen Produkte aus. Dabei werden auch große deutsche Konzerne wie Volkswagen, BMW und Mercedes-Benz ihre neuen Autos präsentieren. Die Automesse in China zählt mittlerweile zu den wichtigsten Branchentreffen. Die Volksrepublik ist der größte Automarkt der Welt.",
-                        "Conti-Autozuliefersparte geht als Aumovio an die Börse",
-                        "Die abgespaltene Autozuliefersparte von Continental soll unter dem Kunstnamen Aumovio im September an die Börse gebracht werden. Continental beschäftigt in der Autozuliefersparte 92.000 Menschen und erwirtschaftete im vergangenen Jahr einen Umsatz von 19,4 Milliarden Euro. Hinter Aumovio stecken Traditionsmarken wie Teves und VDO.",
-                        "Die Abwicklung des Thailand-Geschäfts kam bei den Anlegern von Delivery Hero gut an. Für die Aktien des Essenslieferdienstes ging es um mehr als fünf Prozent nach oben. Das MDAX-Unternehmen teilte mit, die Asien-Tochter Foodpanda werde den Betrieb in Thailand zum 23. Mai 2025 einstellen. Delivery Hero zieht sich damit weiter aus unattraktiven Märkten zurück.",
-                        "Im Skandal um manipulierte Diesel-Abgasanlagen hat die deutsche Justiz gegen einen weiteren Autohersteller eine Millionenbuße verhängt. Nach Opel hat auch das koreanische Unternehmen Hyundai 58,5 Millionen Euro zahlen müssen, berichtet die Staatsanwaltschaft Frankfurt. Die Koreaner hatten unter ihren Marken Hyundai und Kia in Deutschland rund 90.000 Autos mit manipulierten Abgasanlagen verkauft."
+                        "Die Erdbebenserie in der türkischen Metropole Istanbul reißt nicht ab. Der Katastrophendienst Afad meldete am Morgen weitere Nachbeben, darunter eines der Stärke 4,1.",
+                        "Schon gestern hatte in Istanbul die Erde mehrfach gebebt - kurz vor 13 Uhr Ortszeit registrierte Afad das bislang stärkste Beben der Stärke 6,2. Das Epizentrum war im vor der Stadt gelegenen Marmarameer. Zahlreiche Erdstöße der Stärken 4 bis 5 folgten - inzwischen waren es laut Afad mehr als 185."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Verletzungen bei Sprüngen aus Gebäuden"
+                    ],
+                    "paragraphs": [
+                        "Nach Angaben von Gesundheitsminister Kemal Memişoğl auf der Plattform X gab es insgesamt 236 Verletzte - davon 173 in Istanbul, die übrigen in anderen Provinzen. Ihm zufolge wurden 15 Menschen noch in Krankenhäusern behandelt.",
+                        "Manche der Betroffenen hätten sich bei dem Versuch verletzt, sich mit Sprüngen aus Gebäuden in Sicherheit zu bringen. Laut dem Istanbuler Gouverneursamt gab es zunächst keine Berichte über eingestürzte Häuser."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Experten warnen vor weiteren möglichen Beben"
+                    ],
+                    "paragraphs": [
+                        "Die Türkei liegt in einer der seismisch aktivsten Gegenden der Welt. Mehr als eine Million Gebäude in Istanbul gelten als nicht erdbebensicher. Afad warnt vor dem Betreten gefährdeter Gebäude. \"Aufgrund der Nachbeben, die nach dem Hauptbeben anhalten, ist es wahrscheinlich, dass Erdbeben bis zu einer bestimmten Stärke für eine gewisse Zeit auftreten werden\", hieß es.",
+                        "Wissenschaftler halten weitere Nachbeben ebenfalls für möglich. \"Zum jetzigen Zeitpunkt gibt es zwei Szenarien: Entweder ist die unmittelbare Region nun vorerst entspannt und die Seismizität klingt langsam ab, oder die durch das Beben erzeugten Spannungsumlagerungen erhöhen die Wahrscheinlichkeit für ein größeres Erdbeben in der Region\", sagte Marco Bohnhoff vom Potsdamer Helmholtz-Zentrum für Geoforschung. Man beobachte die Vorgänge sehr genau."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Viele Menschen übernachteten draußen"
+                    ],
+                    "paragraphs": [
+                        "Zahlreiche Menschen verbrachten aus Angst die Nächte im Freien und schlugen etwa in Parks oder auf anderen Grünflächen Zelte auf, wie türkische Medien berichteten.",
+                        "Für Menschen, die sich nicht trauen, über Nacht in ihre Wohnungen zurückzukehren, hatte das Istanbuler Gouverneursamt auch Schulen, Moscheen und Sporthallen geöffnet. Staatspräsident Recep Tayyip Erdoğan sagte gestern in Ankara, alle staatlichen Institutionen seien in Alarmbereitschaft und verfolgten die Lage genau."
                     ]
                 }
             ]
-        }
+        },
+        "title": "Nach Erdbeben der Stärke 6,2: Weitere Nachbeben erschüttern Istanbul",
+        "authors": []
+    },
+    {
+        "topics": [
+            "Tod",
+            "Papst Franziskus",
+            "Vatikan",
+            "Kirche"
+        ],
+        "publishing_date": "2025-04-24 06:29:48.967000+00:00",
+        "free_access": true,
+        "images": [
+            {
+                "versions": [
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLrr6A/original/tod-papst-rom-glaeubige-100.jpg",
+                        "query_width": null,
+                        "size": null,
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLkm68/16x9-640/tod-papst-rom-glaeubige-100.jpg",
+                        "query_width": "max-width:420",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLkm68/16x9-640/tod-papst-rom-glaeubige-100.webp",
+                        "query_width": "max-width:420",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLk4K0/16x9-768/tod-papst-rom-glaeubige-100.jpg",
+                        "query_width": "max-width:767",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLk4K0/16x9-768/tod-papst-rom-glaeubige-100.webp",
+                        "query_width": "max-width:767",
+                        "size": {
+                            "width": 16,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLp4nc/20x9-960/tod-papst-rom-glaeubige-100.jpg",
+                        "query_width": "max-width:1023",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLp4nc/20x9-960/tod-papst-rom-glaeubige-100.webp",
+                        "query_width": "max-width:1023",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLpihI/20x9-1280/tod-papst-rom-glaeubige-100.jpg",
+                        "query_width": "min-width:1024",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/jpeg"
+                    },
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLpihI/20x9-1280/tod-papst-rom-glaeubige-100.webp",
+                        "query_width": "min-width:1024",
+                        "size": {
+                            "width": 20,
+                            "height": 9
+                        },
+                        "type": "image/webp"
+                    }
+                ],
+                "is_cover": true,
+                "description": "Eine Frau betet einen Rosenkranz, während sie in einer Schlange auf Einlass in den Petersdom wartet. | REUTERS",
+                "caption": null,
+                "authors": [
+                    "REUTERS"
+                ],
+                "position": 1020
+            },
+            {
+                "versions": [
+                    {
+                        "url": "https://images.tagesschau.de/image/609af15d-975c-4f02-8649-09de7c7b6455/AAABlmZ8-nU/AAABkZLrr6A/original/tod-papst-rom-glaeubige-100.jpg",
+                        "query_width": null,
+                        "size": null,
+                        "type": "image/jpeg"
+                    }
+                ],
+                "is_cover": true,
+                "description": "Eine Frau betet einen Rosenkranz, während sie in einer Schlange auf Einlass in den Petersdom wartet. | REUTERS",
+                "caption": null,
+                "authors": [
+                    "REUTERS"
+                ],
+                "position": 1022
+            }
+        ],
+        "body": {
+            "summary": [
+                "Im Petersdom werden heute wohl erneut Zehntausende Gläubige Papst Franziskus die letzte Ehre erweisen. Im Vatikan laufen die Vorbereitungen für die weiteren Trauerfeierlichkeiten. Ein Termin für das Konklave steht noch nicht fest."
+            ],
+            "sections": [
+                {
+                    "headline": [],
+                    "paragraphs": [
+                        "Es ist der zweite Tag, an dem Gläubige im Petersdom Abschied von Papst Franziskus nehmen können. Sein Leichnam war am Mittwoch in der Kirche in einem schlichten Holzsarg aufgebahrt worden, nachdem der Pontifex am Ostermontag mit 88 Jahren gestorben war.",
+                        "Nachdem die Türen des Petersdom für Besucherinnen und Besucher geöffnet worden waren, hatten bereits am Mittwoch Zehntausende Menschen dem verstorbenen Oberhaupt der katholischen Kirche die letzte Ehre erwiesen. Zwischenzeitlich warteten auf dem Petersplatz bis zu 100.000 Menschen auf Einlass in die Kirche.",
+                        "Im Petersdom gelten besondere Öffnungszeiten, um möglichst vielen Gläubigen die Gelegenheit zu geben, Papst Franziskus noch einmal zu sehen. Auch heute bleibt die Kirche bis Mitternacht geöffnet. Am Freitag schließt der Petersdom um 19 Uhr. Im Anschluss wird der Sarg des verstorbenen Pontifex verschlossen und für die Beisetzung am Samstag vorbereitet."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Mehr Kardinäle treffen in Rom ein"
+                    ],
+                    "paragraphs": [
+                        "Um die weiteren Trauerfeierlichkeiten und das nach der Trauerzeit folgende Konklave vorzubereiten, kommen heute in Rom die bereits anwesenden Kardinäle zu Beratungen zusammen. Es ist das dritte der als Generalkongregation bezeichneten offiziellen Treffen seit Franziskus' Ableben. Nach dem Tod des Papstes waren die Kardinäle aus aller Welt nach Rom berufen worden. Nach und nach treffen immer mehr von ihnen ein. An der ersten Generalkongregation am Dienstag hatten 60 Kardinäle über die bevorstehenden Trauerfeierlichkeiten beraten, am Mittwoch waren bereits 100 im Vatikan zusammengekommen. Die Teilnahme steht allen Kardinälen offen, auch denen, die beim bevorstehenden Konklave nicht wahlberechtigt sind.",
+                        "Beim Konklave sind 135 Kardinäle unter 80 Jahren zur Wahl des neuen Papstes berechtigt. Zwei von ihnen sagten ihre Teilnahme aber bereits aus gesundheitlichen Gründen ab. Ein Termin für den Beginn des Konklave steht noch nicht fest. Es wird voraussichtlich Anfang Mai beginnen, nach Ende der neuntägigen Trauerzeit um Papst Franziskus, das sogenannte Novendiale. Die Trauerzeit beginnt am Samstag, dem Tag der Beisetzung von Franziskus, und endet am 4. Mai. In dieser Zeit wird jeden Tag im Petersdom eine Messe für den verstorbenen Papst gelesen. Die Feiern sind öffentlich und können von allen Gläubigen besucht werden. Den Messen des Novendiale stehen an den neun Tagen verschiedene hochrangige Kirchenmänner vor."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Hunderttausende zu Trauerfeier erwartet"
+                    ],
+                    "paragraphs": [
+                        "Doch nicht nur hinter den Mauern des Vatikans laufen die Vorbereitungen auf die kommenden Tage und das bevorstehende Konklave auf Hochtouren. Auch die Stadt Rom wappnet sich mit massiv erhöhten Sicherheitsvorkehrungen. Zu der Beisetzung am Samstag werden Staatsgäste sowie unzählige Gläubige aus aller Welt erwartet. Italiens Zivilschutz geht von Hunderttausenden bei der Trauerfeier aus. Vor der Beisetzung soll am Samstag ab 10 Uhr die Trauermesse auf dem Petersplatz abgehalten werden. Der öffentliche Verkehr soll verstärkt werden. Freiwillige sollen Gläubige, die zum Petersplatz wollen, unterstützen.",
+                        "Papst Franziskus hatte in seinem Testament verfügt, dass er in der Basilika Santa Maria Maggiore beigesetzt werden soll, in einer bestimmten Nische im linken Seitenschiff der Kirche im Zentrum Roms nah an einer von ihm verehrten Marienikone. Auf seinem Grab soll nur sein Name stehen: Franciscus. In der Basilika gibt es bereits Gräber früherer Päpste. Der letzte Pontifex wurde hier vor mehr als 350 Jahren beigesetzt."
+                    ]
+                }
+            ]
+        },
+        "title": "Abschied von Papst Franziskus - Zehntausende im Petersdom erwartet",
+        "authors": []
+    },
+    {
+        "topics": [
+            "Ukraine",
+            "Kiew",
+            "Luftangriffe",
+            "Russland"
+        ],
+        "publishing_date": "2025-04-24 06:24:38.805000+00:00",
+        "free_access": true,
+        "images": [],
+        "body": {
+            "summary": [
+                "Ungeachtet der Verhandlungen mit den USA greift Russland die Ukraine weiter massiv an. Allein in der Hauptstadt Kiew wurden mindestens neun Menschen getötet. Und auch aus anderen Landesteilen werden Attacken gemeldet."
+            ],
+            "sections": [
+                {
+                    "headline": [],
+                    "paragraphs": [
+                        "Russland setzt seine Angriffe auf die Ukraine unvermindert fort. In Kiew wurden bei einem nächtlichen russischen Raketenangriff nach ukrainischen Angaben neun Menschen getötet. Mehr als 63 Menschen seien verletzt worden. Unter den Verletzten sind nach Angaben von Bürgermeister Vitali Klitschko auch sechs Kinder.",
+                        "Weitere Opfer werden unter den Trümmern vermutet, denn auch in den Morgenstunden sind die Bergungs- und Rettungsarbeiten bislang nicht beendet. \"Aus den Trümmern der Ruinen ist das Klingeln von Telefonen zu hören - die Suche geht weiter, bis wir sicher sind, dass wir alle haben\", sagte Innenminister Ihor Klymenko der Nachrichtenagentur Unian zufolge. So suchen die Rettungstrupps noch zwei Kinder, die bislang nicht am Unglücksort gefunden wurden.",
+                        "Es habe sich um einen kombinierten Angriff mit Raketen und Drohnen gehandelt, erklärten Rettungsdienste. In fünf Bezirken der Stadt dauerten die Rettungsmaßnahmen an. Tymur Tkatschenko, der Leiter der Militärverwaltung, sagte, es seien auch Brände in mehreren Wohngebäuden gemeldet worden."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Explosionen im gesamten Stadtgebiet"
+                    ],
+                    "paragraphs": [
+                        "Am frühen Morgen hatten die Behörden bei Telegram eine Luftalarm-Warnung herausgegeben. Journalisten der Nachrichtenagentur AFP hörten Explosionen in der ganzen Stadt. Auch Drohnen waren über Kiew zu hören. In einem Luftschutzkeller eines Wohnhauses versammelten sich mehr als ein Dutzend Bewohner, nachdem der Luftalarm ausgelöst worden war, wie ein AFP-Reporter beobachtete.",
+                        "Moskau führt immer wieder Raketenangriffe auf die Ukraine und ihre Hauptstadt aus. Viele Angriffe richten sich auch gegen die Energieinfrastruktur des Landes. Die Ukraine greift ihrerseits regelmäßig Ziele in Russland an."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Beschuss auf den Osten der Ukraine"
+                    ],
+                    "paragraphs": [
+                        "Auch den Osten der Ukraine nahmen die russischen Streitkräfte ukrainischen Behördenangaben zufolge unter Beschuss. Der Bürgermeister von Charkiw, Igor Terechow, erklärte, dass die zweitgrößte Stadt des Landes von sieben Raketen getroffen worden sei. Später fügte er hinzu, dass \"ein massiver Drohnenangriff\" auf die Stadt im Gange sei. Die Bewohnerinnen und Bewohner forderte er auf, sich in Sicherheit zu bringen.",
+                        "Zuletzt waren aus mehreren ukrainischen Regionen Brände nach russischen Angriffen gemeldet worden. Betroffen waren nach offiziellen Angaben die Regionen Kiew, Charkiw, Poltawa, Odessa und Dnipropetrowsk. Der ukrainische Präsidialamtschef Andrij Jermak erklärte, Russland greife Kiew, Charkiw und andere Städte \"in diesem Moment mit Raketen und Drohnen\" an. \"Putin zeigt nur den Wunsch zu töten\", erklärte Jermak und forderte: \"Die Angriffe auf Zivilisten müssen aufhören.\""
+                    ]
+                }
+            ]
+        },
+        "title": "Mindestens neun Tote bei russischen Luftangriffen auf Kiew",
+        "authors": []
+    },
+    {
+        "topics": [
+            "Marktbericht",
+            "DAX",
+            "Dow Jones Nasdaq",
+            "Zinsen",
+            "Rendite"
+        ],
+        "publishing_date": "2025-04-24 05:38:20.224000+00:00",
+        "free_access": true,
+        "images": [],
+        "body": {
+            "summary": [
+                "Die Anleger hoffen heute auf eine Fortsetzung der jüngsten Kurserholung. Die starken Vorgaben der Wall Street dürften sich positiv auswirken, auch die Berichtssaison könnte für Impulse sorgen."
+            ],
+            "sections": [
+                {
+                    "headline": [],
+                    "paragraphs": [
+                        "Der Broker IG taxiert den DAX vor dem Handelsstart rund 0,1 Prozent leichter auf 21.950 Punkten. Gestern hatte der deutsche Leitindex 3,1 Prozent höher bei 21.961 Punkten geschlossen. Wieder mal war US-Präsident Donald Trump der große Kursbeweger. Es hätten zwei kurze Schlagzeilen gereicht, um die Investoren wieder in Kauflaune zu versetzen: \"Trump wolle 'nett' zu China sein und auch den Notenbankchef nicht entlassen\", konstatierte Chef-Marktanalyst Jochen Stanzl vom Broker CMC Markets.",
+                        "Weitere Kursgewinne sind möglich: \"Die Verspannungen an den Finanzmärkten haben sich zuletzt etwas gelöst, was wohl auch mit fehlenden Negativ-Schlagzeilen zum Thema Zölle zu erklären ist\", heißt es von den Marktbeobachtern der Helaba. Es machten sich Hoffnungen auf eine Handelseinigung mit Indien und Japan breit, und es gebe Entspannungssignale im Zollstreit mit China. \"Dennoch sind Konjunktursorgen präsent, und Stimmungsindikatoren tendieren zur Schwäche\", so die Fachleute.",
+                        "Die nächsten Impulse für den DAX könnten heute von der voranschreitenden Berichtssaison und dem am Vormittag anstehenden ifo-Geschäftsklimaindex ausgehen. Fraglich bleibt, inwieweit sich die Unsicherheit über Donald Trumps Zollpolitik bereits negativ auf das Stimmungsbarometer ausgewirkt hat.",
+                        "Marktbeobachtern zufolge bleiben die Märkte aber insgesamt auf Stabilisierungskurs. \"Das Hauptthema bleibt eine Fortsetzung der Erholungsrally\", schrieben am Morgen die Experten der Commerzbank.",
+                        "Die jüngsten Aussagen von US-Präsident Donald Trump und die Aussicht auf niedrigere China-Zölle hatten gestern auch die Wall Street angetrieben. US-Finanzminister Scott Bessent hatte ferner erklärt, die hohen Zölle zwischen den USA und China seien auf die Dauer nicht haltbar. \"Wir werden einen fairen Deal mit China abschließen\", sagte Trump gestern vor Journalisten, ohne jedoch Einzelheiten zu nennen.",
+                        "Der US-Standardwerteindex Dow Jones verabschiedete mit einem Plus von 1,1 Prozent bei 39.606 Punkten aus dem Handel. Der breit gefasste S&P 500 gewann 1,7 Prozent auf 5.375 Zähler, und der technologielastige Nasdaq zog um 2,5 Prozent auf 16.708 Stellen an.",
+                        "Die asiatischen Aktien legen am Morgen leicht zu. \"Die kurzfristige Volatilität ist im Moment ziemlich extrem und wir werden in Zukunft noch mehr Volatilität erleben, weil sich die zugrunde liegenden Spielregeln des Marktes und die wirtschaftliche Weltordnung ändern\", sagte Salman Ahmed, Chef der Abteilung Macro and Strategic Asset Allocation bei Fidelity International.",
+                        "In Tokio legte der 225 Werte umfassende Nikkei-Index 0,6 Prozent auf 35.063 Punkte zu. Die Börse Shanghai gewann 0,3 Prozent auf 3.306 Stellen. Der Index der wichtigsten Unternehmen in Shanghai und Shenzhen stieg um 0,3 Prozent auf 3.799 Punkte.",
+                        "Der Sportartikelkonzern Adidas ist zum Jahresauftakt kräftig gewachsen. Der Umsatz legte im ersten Quartal im Vergleich zum Vorjahreszeitraum um nahezu 700 Millionen auf 6,15 Milliarden Euro zu. Das entspreche einem währungsbereinigten Wachstum von 13 Prozent. Ohne die Verkäufe von Yeezy Produkten im Vorjahr liege das Wachstum währungsbereinigt bei 17 Prozent. Grund sei ein zweistelliges Wachstum in allen Märkten und allen Vertriebskanälen. Das Betriebsergebnis stieg von 336 auf 610 Millionen Euro.",
+                        "Der Nahrungsmittelriese Nestle ist mit einem leichten Wachstum in das neue Jahr gestartet. Im ersten Quartal 2025 stieg der Umsatz des Herstellers von Nespresso, Maggi und KitKat um 2,3 Prozent auf 22,6 Milliarden Franken. Treiber waren dabei vor allem Preissteigerungen, mit denen das Unternehmen teilweise deutlich gestiegene Einkaufskosten auszugleichen versuchte, nachdem die Preise für zwei der wichtigsten Rohstoffe, Kaffee und Kakao, auf Rekordniveau geklettert waren.",
+                        "Dem Luxusgüterkonzern Kering macht die Krise bei seiner Kernmarke Gucci weiter schwer zu schaffen. Im ersten Quartal sackte der Konzernumsatz um 14 Prozent auf 3,9 Milliarden Euro ab. Bei Gucci führten die Schwierigkeiten in Asien und insbesondere in China sogar zu einem bereinigten Umsatzschwund von einem Viertel. Das war etwas schwächer als von Experten erwartet.",
+                        "Zum Jahresauftakt stiegen die Erlöse des Spezialisten für Analog-Chips den Angaben zufolge um elf Prozent auf 4,07 Milliarden Dollar. Der Reingewinn liege bei 1,28 Dollar je Aktie. Für das laufende zweite Quartal stellte die US-Firma Erlöse von 4,17 bis 4,53 Milliarden Dollar und einen Gewinn zwischen 1,21 und 1,47 Dollar je Aktie in Aussicht. Zahlen von TI werden als Indikator für die Nachfrage in einer Vielzahl von Branchen genau beobachtet, da die Chips in zahlreichen Produkten verbaut werden.",
+                        "IBM-Chef Arvind Krishna fürchtet, dass die \"America-First\"-Politik von Präsident Donald Trump US-Unternehmen international schaden könnte. \"Wenn sich die Wahrnehmung durchsetzt, dass amerikanische Unternehmen nur machen, was für das Land Amerika gut ist, wird das ein Problem auslösen\", sagte Krishna dem US-Wirtschaftssender CNBC. Noch sehe IBM in den Daten aber keine Anzeichen dafür, schränkte er ein. Im vergangenen Vierteljahr legte der Umsatz im Jahresvergleich um ein Prozent auf 14,54 Milliarden Dollar zu. Der Gewinn sank um gut ein Drittel auf knapp 1,06 Milliarden Dollar."
+                    ]
+                }
+            ]
+        },
+        "title": "Marktbericht: DAX ringt um die 22.000 Punkte",
+        "authors": []
+    },
+    {
+        "topics": [
+            "Israel"
+        ],
+        "publishing_date": "2025-04-24 05:34:38.964000+00:00",
+        "free_access": true,
+        "images": [],
+        "body": {
+            "summary": [
+                "Die israelische Initiative Zikaron BaSalon - Erinnerungen im Wohnzimmer - will Zeugnisse von Holocaust-Überlebenden auch 80 Jahre nach Kriegsende lebendig halten. Dabei laden Überlebende zu sich nach Hause ein."
+            ],
+            "sections": [
+                {
+                    "headline": [],
+                    "paragraphs": [
+                        "Nur kurz bedankt sich Rena Quint für den Blumenstrauß, wichtiger ist ihr, dass es ihren Gästen gut geht. Ob jemand Kaffee oder Tee wünscht, fragt sie in die Runde. Und meint, jeder solle sich selber bedienen.",
+                        "Quint ist 89 Jahre alt und sitzt in ihrem Wohnzimmer in einem Rollstuhl. Die Wände sind voller Fotos. Geburtstagsfeiern, Hochzeiten, immer wieder Babybilder ihrer Enkel und Urenkel. Hillary Clinton traf sie, Joe Biden, Ariel Scharon, Teddy Kollek, den legendären Bürgermeister von Jerusalem. Es sind Bilder aus ihrem Leben.",
+                        "Ein Leben, das sie bei diesem Zikaron BaSalon - dem Erinnern im Wohnzimmer - ihren Gästen näherbringen möchte. Ein Leben, das sie auf einen kurzen Nenner bringt: \"Ich hatte eine fürchterliche Kindheit, bis ich zehn war und ein wundervolles Leben.\""
+                    ]
+                },
+                {
+                    "headline": [
+                        "\"Ab sofort bist du kein Mädchen mehr\""
+                    ],
+                    "paragraphs": [
+                        "Diese fürchterliche Kindheit beginnt für Frajda Lichtensztajn, wie Rena Quint damals hieß, im Ghetto der polnischen Stadt Piotrkow mit sechs Jahren. Nazischergen treiben sie und ihre Mutter auf den Marktplatz, von wo aus sie deportiert werden sollen.",
+                        "Ihre Mutter gibt ihr einen Schubs, sie versteckt sich in einer Synagoge. Dann flieht sie zum Vater, der als Zwangsarbeiter in einer Glashütte arbeitet. Eigentlich dürfen dort nur Männer und Jugendliche ab zehn Jahren sein.",
+                        "Rena Quint erinnert sich an die Worte des Vaters: \"Ab sofort musst du eines wissen: Du bist kein Mädchen mehr, sondern ein Junge. Und du bist nicht mehr sechs Jahre alt sondern zehn. Und dein Name ist nicht mehr Frajda sondern Froyim. Sag es Dir immer wieder: Du bist ein zehnjähriger Junge und heißt Froyim.\""
+                    ]
+                },
+                {
+                    "headline": [
+                        "Von der Glashütte ins Konzentrationslager"
+                    ],
+                    "paragraphs": [
+                        "Als Junge schuftet sie in der Glashütte, bis auch die letzten Juden aus Piotrkow deportiert werden. Ihr Vater drückt Rena einer Frau in die Arme. Es wird ihre zweite Mutter. In einem Viehwagon geht es ins Konzentrationslager Bergen-Belsen.",
+                        "\"Jeden Tag starben dort Hunderte. Sie verhungerten, sie starben an Krankheiten, sie erfroren. Sie starben an irgendetwas. Und wohin man auch ging - dieser Geruch, der Geruch des Todes.\" Auch ihre neue Mutter stirbt dort."
+                    ]
+                },
+                {
+                    "headline": [
+                        "Eine Tochter vieler Mütter"
+                    ],
+                    "paragraphs": [
+                        "Als das Konzentrationslager 1945 befreit wird, liegt Rena zwischen Leichenbergen. Sie ist schwer an Typhus und Diphterie erkrankt. Doch sie überlebt und wird nach Schweden geschickt, wo sie von einer neuen Mutter angenommen wird.",
+                        "Mit ihr reist Fanny - wie sie jetzt heißt - in die USA. Doch die Frau stirbt. Ein kinderloses Paar aus Brooklyn adoptiert das Mädchen, das nun seinen endgültigen Namen Rena Quint bekommt.",
+                        "Sie ist die Tochter vieler Mütter, sagt die 89-jährige Frau und lächelt verschmitzt. \"Jedes Mal, wenn eine meiner Mütter getötet wurde oder starb, bekam ich eine neue Mutter. Wenn die eine nicht mehr da war, kam eine neue, und so ging es weiter.\""
+                    ]
+                },
+                {
+                    "headline": [
+                        "\"Man kann nicht mit einem solchen Hass leben\""
+                    ],
+                    "paragraphs": [
+                        "Seit 1989 lebt Quint mit ihrer eigenen Familie in Israel. Ihr Leben anderen, jüngeren zu erzählen, ist jetzt ihre Lebensaufgabe. Ein Leben, das die Nazis fast ausgelöscht hätten, was ihr Verhältnis zu Deutschland bis heute prägt.",
+                        "\"Deutschland war unser Feind, aber jetzt ist Deutschland einer unserer besten Freunde.\" Deutschland habe Israel sehr unterstützt, das erkenne sie an, sagt Rena Quint. \"Aber vergebe ich ihnen? Nein. Vergesse ich, was geschehen ist? Hoffentlich nicht. Aber man muss weiterleben. Und man kann nicht mit einem solchen Hass leben.\""
+                    ]
+                }
+            ]
+        },
+        "title": "Zikaron BaSalon: Holocaust-Gedenken im Wohnzimmer der Überlebenden",
+        "authors": [
+            "Julio Segador Tel Aviv"
+        ]
     }
 ]
