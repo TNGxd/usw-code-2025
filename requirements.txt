@@ -4,3 +4,7 @@ seaborn
 jupyter
 nltk
 fastparquet
+fundus
+scrapy
+feedparser
+scrapy-playwright

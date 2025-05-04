@@ -1,9 +1,9 @@
 import scrapy
-
+from scrapy_tutorial.items import ScrapyTutorialItem
 
 class HtwBerlinSpider(scrapy.Spider):
     name = "htw_berlin"
-    allowed_domains: list[str] = []
+    allowed_domains: list[str] = ["htw-berlin.de"]
     start_urls = ["https://www.htw-berlin.de/studium/studiengaenge/"]
 
     def start_requests(self):
@@ -14,14 +14,14 @@ class HtwBerlinSpider(scrapy.Spider):
 
     def parse(self, response):
         print("Parsing the response...")
-        titles = response.css("div.card-headline").getall()
-        for title in titles:
-            print(title)
+
+        # TODO: parse the title element and yield it as item
 
         # get info page per study program
         links = response.css("div.card-container a::attr(href)").getall()
         for link in links:
-            yield scrapy.Request(
-                url=link,
-                meta={"playwright": True},
-            )
+            if link.endswith("/"):
+                yield scrapy.Request(
+                    url=link,
+                    meta={"playwright": True},
+                )
